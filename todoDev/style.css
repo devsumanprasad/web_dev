@@ -1,0 +1,20 @@
+.clr-primary{
+    color: aqua;
+}
+@media(max-width:767px){
+    .manual{
+        width:80%;
+    }
+    .mmr{
+        margin-top:1rem;
+    }
+}
+#ulTasks li.done{
+    color: #6c757d;
+    text-decoration: line-through;
+}
+@media(min-width:769px){
+    .mtp{
+        margin-top: 30px;
+    }
+}
